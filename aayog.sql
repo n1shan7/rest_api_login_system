@@ -43,7 +43,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`fname`, `lname`, `phone`, `sex`, `email`, `pass`) VALUES
 ('Vaibhav', 'Lakhotia', '8707061579', 'male', 'vaibhav02lakhotia@gmail.com', 'Vaibhav@123'),
-('Vaibhav', 'Lakhotia', '8090962920', 'male', 'seema04lakhotia@gmail.com', 'Vaibhav@123');
+('Nishant', 'Jaiswal', '8318755033', 'male', 'nish.jaiswal1996@gmail.com', 'Nishant@123');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
